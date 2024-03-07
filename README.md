@@ -15,4 +15,5 @@ Node.js
 React        
 Next.js      
 HTML/CSS    
-JavaScript  
+JavaScript
+Tailwind CSS  
