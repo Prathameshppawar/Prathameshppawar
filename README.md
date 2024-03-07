@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Prathameshppawar
-- 👀 I’m new to coding in 2021
-- 🌱 I’m currently learning in IIITV-ICD 
-- 💞️ I’m looking to collaborate on - let's learn first 
-- 📫 How to reach me - will write soon
+# Hello, World! 👋
 
-<!---
-Prathameshppawar/Prathameshppawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Prathamesh Pawar, a passionate software developer from IIIT Vadodara. I specialize in crafting beautiful and efficient web experiences. Welcome to my digital playground!
+
+## About Me 🚀
+
+🎓 Studying at **IIIT Vadodara**, diving deep into the world of web development.
+👨‍💻 Currently working with **Node.js**, **React**, and **Next.js** to build responsive and dynamic web applications.
+🌐 Exploring the latest trends in web development to keep my skills sharp and up-to-date.
+
+## My Tech Stack 💻
+
+```text
+Node.js     
+React        
+Next.js      
+HTML/CSS    
+JavaScript  
