@@ -8,6 +8,14 @@ I'm Prathamesh Pawar, a passionate software developer from IIIT Vadodara. I spec
 👨‍💻 Currently working with **Node.js**, **React**, and **Next.js** to build responsive and dynamic web applications.
 🌐 Exploring the latest trends in web development to keep my skills sharp and up-to-date.
 
+##Programming 🤯
+```text
+C++
+Python
+Java Script
+```
+
+
 ## My Tech Stack 💻
 
 ```text
@@ -17,3 +25,4 @@ Next.js
 HTML/CSS    
 JavaScript
 Tailwind CSS  
+```
