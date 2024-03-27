@@ -7,7 +7,7 @@ This repository is my digital playground, where I experiment and build projects 
 Feel free to browse around and see what I'm working on!
 
 
-##Programming 🤯
+## Programming 🤯
 ```text
 C++
 Python
