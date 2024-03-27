@@ -1,12 +1,11 @@
 # Hello, World! 👋
 
-I'm Prathamesh Pawar, a passionate software developer from IIIT Vadodara. I specialize in crafting beautiful and efficient web experiences. Welcome to my digital playground!
+I'm a 3rd year Computer Science student at IIIT Vadodara with a passion for web development and a thirst for exploring different domains. My background includes projects in Machine Learning, Image Processing, and Web Development, and I'm always eager to learn new things.
 
-## About Me 🚀
+This repository is my digital playground, where I experiment and build projects that spark my interest. I strive to create beautiful and efficient web experiences with a focus on functionality.
 
-🎓 Studying at **IIIT Vadodara**, diving deep into the world of web development.
-👨‍💻 Currently working with **Node.js**, **React**, and **Next.js** to build responsive and dynamic web applications.
-🌐 Exploring the latest trends in web development to keep my skills sharp and up-to-date.
+Feel free to browse around and see what I'm working on!
+
 
 ##Programming 🤯
 ```text
