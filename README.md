@@ -1,6 +1,6 @@
 # Hello, World! 👋
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=45B8F7&random=false&width=435&lines=Full-Stack+Web+Developer;Machine+Learning+Engineer+;AI+%7C+ML+Enthusiast;React+Js+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=45B8F7&random=false&width=435&lines=Front-end+Developer;Back-end+Developer;Full-Stack+Web+Developer;Machine+Learning+Engineer+;AI+%7C+ML+Enthusiast;" alt="Typing SVG" /></a>
 </p>
 I'm a 3rd year Computer Science student at IIIT Vadodara with a passion for web development and a thirst for exploring different domains. My background includes projects in Machine Learning, Image Processing, and Web Development, and I'm always eager to learn new things.
 
