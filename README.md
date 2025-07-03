@@ -1,10 +1,10 @@
 # Hello World! 👋
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=45B8F7&random=false&width=435&lines=Front-end+Developer;Back-end+Developer;Full-Stack+Web+Developer;Machine+Learning+Engineer+;AI+%7C+ML+Enthusiast;" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=45B8F7&random=false&width=435&lines=Front-end+Developer;Back-end+Developer;Full-Stack+Web+Developer;Machine+Learning+Engineer+;AI+%7C+ML+Enthusiast](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=29&pause=1000&color=45B8F7&random=false&width=435&lines=Front-end;AI;Back-end;Agents;Agentic-AI;Full-Stack;Machine+Learning+Engineer+;);" alt="Typing SVG" />
 </p>
-I'm a 4th year Computer Science student at IIIT Vadodara with a passion for web development and a thirst for exploring different domains. My background includes projects in Machine Learning, Image Processing, and Web Development, and I'm always eager to learn new things.
+I'm a Computer Science graduate from IIIT Vadodara with a passion for AI, Web Development and a thirst for exploring different domains. My background includes projects in building AI agents, RAG chatbots, Machine Learning, Image Processing, and Web Development, and I'm always eager to learn new things.
 
-This repository is my digital playground, where I experiment and build projects that spark my interest. I strive to create beautiful and efficient web experiences with a focus on functionality.
+This space is my digital playground, where I learn, experiment and build projects that spark my interest. I strive to create beautiful and efficient web experiences with a focus on functionality.
 
 Feel free to browse around and see what I'm working on!
 
