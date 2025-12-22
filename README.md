@@ -33,7 +33,7 @@ TypeScript
 ```text
 Node.js
 Express.js
-ShadCDN
+ShadCN
 MongoDB
 MySQL   
 React        
