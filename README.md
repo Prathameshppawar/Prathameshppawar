@@ -80,23 +80,10 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshppawar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=prathameshppawar&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- ===================== FULL YEAR GRAPH / MAKES PLATEAU LOOK GOOD ===================== -->
-## 📈 Activity Graph (Full Year)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshppawar&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 ---
 
 <!-- ===================== CONTRIBUTION SNAKE (ANIMATED FULL YEAR) ===================== -->
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prathameshppawar/prathameshppawar/output/github-contribution-grid-snake.svg" alt="snake animation" />
