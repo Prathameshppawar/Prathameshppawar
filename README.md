@@ -1,52 +1,127 @@
-# Hello World! 👋
+<!-- ===================== HERO ===================== -->
+<h1 align="center">Hey, I'm Prathamesh Pawar 👋</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=29&pause=1000&color=45B8F7&random=false&width=435&lines=Front-end;AI;Back-end;Agents;Agentic-AI;Full-Stack;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=45B8F7&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Full-Stack+Developer;Backend+Engineering+with+Go+%7C+Node.js;Agentic+AI+%7C+RAG+Chatbots+%7C+LLM+Apps;Building+fast%2C+reliable+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-I'm a Computer Science graduate from IIIT Vadodara with a passion for AI, Web Development and a thirst for exploring different domains. My background includes projects in building AI agents, RAG chatbots, Machine Learning, Image Processing, and Web Development, and I'm always eager to learn new things.
 
-This space is my digital playground, where I learn, experiment and build projects that spark my interest. I strive to create beautiful and efficient web experiences with a focus on functionality.
+<p align="center">
+  <a href="mailto:pratham1024@gmail.com"><img src="https://img.shields.io/badge/Email-pratham1024%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prathameshppawar/"><img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Pawar-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/prathameshppawar"><img src="https://img.shields.io/badge/GitHub-prathameshppawar-111?style=for-the-badge&logo=github"/></a>
+</p>
 
-Feel free to browse around and see what I'm working on!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathameshppawar&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshppawar&label=Profile%20views&color=0e75b6&style=flat" alt="demader" /> </p>
+---
 
+<!-- ===================== ABOUT ===================== -->
+## 🚀 About Me
 
-- 📫 How to reach me **pratham1024@gmail.com**
+- 🎓 Computer Science graduate from **IIIT Vadodara**
+- ⚡ I build **full-stack applications** and **backend systems**
+- 🤖 Strong interest in **Agentic AI**, **RAG pipelines**, and **LLM-powered tools**
+- 🧩 I enjoy building things, maybe for personal use, maybe as a part of my work
+- 🎯 Current goal: join a strong engineering team
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/Prathamesh0043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe18952604" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/prathameshppawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekgovind" height="30" width="40" /></a>
+---
 
-## Programming 🤯
-```text
-C++
-Python
-Java Script
-Java
-TypeScript
-```
+<!-- ===================== SKILL CARDS ===================== -->
+## 🧠 Languages & Tools (Cards)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cpp,python,js,ts,java&theme=dark" />
+</p>
 
-## My Tech Stack 💻
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind&theme=dark" />
+</p>
 
-```text
-Node.js
-Express.js
-ShadCN
-MongoDB
-MySQL   
-React        
-Next.js      
-HTML/CSS
-Tailwind CSS  
-```
-## My Stats:
-  
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshppawar&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&stroke=f53b3b" alt="demader"  /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode&theme=dark" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshppawar&show_icons=true&locale=en&theme=dark&hide_border=false&stroke=f53b3b" alt="demader" width="350" hight="150" /></p>
+---
 
-## Activity On GitHub
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshppawar&&theme=dark&hide_border=false&stroke=f53b3b" alt="demader" width="350" hight="150" /></p>
+<!-- ===================== GO LEARNING (CONFIDENT, NOT DESPERATE) ===================== -->
+## 🐹 Currently Learning: Go (Golang)
 
+> I love Go because it encourages simple, readable code and production-grade performance.
+
+---
+
+<!-- ===================== WHAT I BUILD ===================== -->
+## 🤖 What I Like Building
+
+- **Backend systems & APIs** (Go / Node.js)
+- **Agentic AI apps** (tools + workflows + structured outputs)
+- **RAG chatbots** (retrieval + reranking + evaluation)
+- **Clean UI apps** using **React / Next.js + Tailwind + ShadCN**
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+## 🏆 Featured Work
+
+📌 My pinned repositories represent:
+- Go backend work + APIs  
+- Agentic AI / RAG projects  
+- Full-stack product apps  
+
+---
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prathameshppawar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshppawar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=prathameshppawar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ===================== FULL YEAR GRAPH / MAKES PLATEAU LOOK GOOD ===================== -->
+## 📈 Activity Graph (Full Year)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshppawar&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE (ANIMATED FULL YEAR) ===================== -->
+## 🐍 Contribution Snake (Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prathameshppawar/prathameshppawar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<!-- ===================== HIRE ME CTA (NOT DESPERATE, CONFIDENT) ===================== -->
+## 🤝 Let's Work Together
+
+If you're building products that require:
+- clean backend engineering (**Go / Node.js**),
+- scalable APIs,
+- or AI-powered features (RAG / agents),
+
+I'd love to collaborate.
+
+<p align="center">
+  <a href="mailto:pratham1024@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me%20/%20Collaborate-Contact%20Me-45B8F7?style=for-the-badge&logo=maildotru&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:45B8F7&height=130&section=footer"/>
+</p>
