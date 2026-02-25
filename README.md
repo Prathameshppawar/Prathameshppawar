@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <h1 align="center">Hey, I'm Prathamesh Pawar 👋</h1>
- 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=45B8F7&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Full-Stack+Developer;Backend+Engineering+with+Go+%7C+Node.js;Agentic+AI+%7C+RAG+Chatbots+%7C+LLM+Apps;Building+fast%2C+reliable+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
